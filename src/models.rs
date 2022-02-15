@@ -7,5 +7,5 @@ pub struct User {
     password: String,
     email_address: Option<String>,
     first_name: Option<String>,
-    last_name: Option<String>
+    last_name: Option<String>,
 }
